@@ -17,6 +17,7 @@ You need "DroidCam" app for this in your Android phone.
 If you just want to try how it works, please check the release too.  Windows executable file is available.
 
 * Clone this repo `git clone https://github.com/AiueoABC/Play_with_DroidCam.git`
+`git clone https://github.com/AiueoABC/Play_with_DroidCam.git`
 * Move to the cloned directory `cd Play_with_DroidCam`
 * Install requirements `python -m pip install -r requirements.txt`
 
